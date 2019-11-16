@@ -4,8 +4,8 @@ module.exports = {
     base: '/vuepress-action-demo/',
     themeConfig: {
         nav: [
-            { text: 'External', link: 'https://google.com', target:'_self', rel:'' },
-            { text: 'Guide', link: '/guide/', target:'_blank' }
+            { text: 'Home', link: '/'},
+            { text: 'About', link: '/about/'}
           ]
         }
   }
