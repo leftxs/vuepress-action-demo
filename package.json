@@ -18,10 +18,10 @@
     "type": "git",
     "url": "git+https://github.com/lingmeixyz/vuepress-action-demo.git"
   },
-  "author": "",
+  "author": "lingmeixyz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lingmeixyz/vuepress-action-demo/issues"
   },
-  "homepage": "https://github.com/lingmeixyz/vuepress-action-demo#readme"
+  "homepage": "https://github.com/lingmeixyz/vuepress-action-demo"
 }
