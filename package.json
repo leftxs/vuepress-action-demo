@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-action-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+      "dev": "vuepress dev docs",
+      "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingmeixyz/vuepress-action-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lingmeixyz/vuepress-action-demo/issues"
+  },
+  "homepage": "https://github.com/lingmeixyz/vuepress-action-demo#readme"
+}
