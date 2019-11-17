@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'VuePress Demo',
+    title: 'docs/config.js Global title',
     description: 'VuePress Demo',
     base: '/vuepress-action-demo/',
     themeConfig: {
@@ -7,5 +7,8 @@ module.exports = {
             { text: 'Home', link: '/'},
             { text: 'About', link: '/about/'}
           ]
-        }
+        },
+    plugins: [
+          '@vuepress/back-to-top'
+        ]    
   }
