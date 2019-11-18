@@ -11,6 +11,6 @@ features:
 - title: heroImage follows
   details: docs/public/img
 - title: vuepress-v 1.2.0
-  details: vscode remote docker node:latest images
+  details: vscode remote docker out-of-the-box feature
 footer: MIT Licensed | Copyright © 2019-present  
 ---
