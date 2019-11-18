@@ -8,7 +8,5 @@ module.exports = {
             { text: 'About', link: '/about/'}
           ]
         },
-    plugins: [
-          '@vuepress/back-to-top'
-        ]    
+        plugins: ['@vuepress/back-to-top'] 
   }
